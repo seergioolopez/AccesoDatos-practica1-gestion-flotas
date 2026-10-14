@@ -1,0 +1,26 @@
+[
+  {
+    "matricula": "1234ABC",
+    "marca": "Renault",
+    "modelo": "Master",
+    "ano": 2020,
+    "km_recorridos": 85000.0,
+    "categoriaMantenimiento": "Preventivo"
+  },
+  {
+    "matricula": "5678DEF",
+    "marca": "Iveco",
+    "modelo": "Daily",
+    "ano": 2018,
+    "km_recorridos": 150000.0,
+    "categoriaMantenimiento": "Correctivo"
+  },
+  {
+    "matricula": "9012GHI",
+    "marca": "Mercedes",
+    "modelo": "Sprinter",
+    "ano": 2021,
+    "km_recorridos": 40000.0,
+    "categoriaMantenimiento": "Preventivo"
+  }
+]

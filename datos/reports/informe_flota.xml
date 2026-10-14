@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flota>
+    <vehiculo matricula="1234ABC">
+        <marca>Renault</marca>
+        <modelo>Master</modelo>
+        <anio>2020</anio>
+        <kilometraje>85000.0</kilometraje>
+        <categoriaMantenimiento>Preventivo</categoriaMantenimiento>
+    </vehiculo>
+    <vehiculo matricula="5678DEF">
+        <marca>Iveco</marca>
+        <modelo>Daily</modelo>
+        <anio>2018</anio>
+        <kilometraje>150000.0</kilometraje>
+        <categoriaMantenimiento>Correctivo</categoriaMantenimiento>
+    </vehiculo>
+    <vehiculo matricula="9012GHI">
+        <marca>Mercedes</marca>
+        <modelo>Sprinter</modelo>
+        <anio>2021</anio>
+        <kilometraje>40000.0</kilometraje>
+        <categoriaMantenimiento>Preventivo</categoriaMantenimiento>
+    </vehiculo>
+</flota>
